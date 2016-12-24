@@ -1,0 +1,6 @@
+num = raw_input("please enter a number : ")
+num = int(num)
+if num <= 0:
+	print "the number is below 0"
+else:
+	print 'the number is over 0'	

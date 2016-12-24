@@ -1,0 +1,200 @@
+action|动作|The girls actions helped her team win the soccer game.
+afraid|害怕|Our dog is afraid of thunder.
+depend|依靠|Nick depends on his dad to help him learn to ride a bike.
+nervously|紧张地|	Maya waited nervously for her swim race to begin.
+peered|盯着|The cat peered through the hole in the barn.
+perfectly|完美地|	The orange is perfectly round .
+rescue|营救|We watched the boy rescue the cat from the tree.
+secret|秘密|Mandy whispered a secret to me.
+aside|一边|Juan moves aside books on the shelf to find one he likes.
+culture|文化|At Chinese New Year ,we learn about our culture.
+fair|公平|Mom cut the cake so we all got our fair share.
+invited|邀请|I invited some friends to my birthday party.
+language|语言|My friend Naomi speaks and writes in another language.
+plead|乞求|I had to plead with Dad to get a new bike.
+scurries|疾走|The squirrel scurries across the yard.
+share|分享|I like to share music with my sister.
+decide|决定|I decided to have juice and cereal for breakfast.
+different|不同|The brown kitten is different than the orange kitten.
+friendship|友谊|Because of their friendship, the kids played together a lot.
+glance|一瞥|I glance to see what book my sister is reading.
+proper|合适的|It is proper to wipe your mouth during a meal.
+relationship|关系|Our teacher has a good relationship with our class.
+stares|注视|Helen stares at her friend.
+trade|贸易|Don and Luis trade baseball cards.
+allowed|允许|Dogs are not allowed on the beach.
+care|当心|I help care for my little brother.
+Excited|兴奋|The girls were excited to play with their new puppy.
+Needs|需要|Food and water are some of the needs of every animal.
+Roam|巡视|Lions roam the plains in Africa.
+Safe|安全|Wearing a seatbelt keeps me safe in the car.
+Wandered|游荡|A bear cub wandered away from its mother.
+Wild|野生|Bears and raccoons live in the wild.
+Check|检查|Mom will check to make sure Tina ¡s helmet fits.
+Choose|选择|Julian will choose a shirt to wear.
+Chores|家务活|Sierra must finish her chores before she can play.
+Cost|价格|Jordan asked,how much does the shirt cost?
+Customers|顾客|The customers lined up to buy lemonade.
+Jobs|工作|Nurse and doctor are two jobs at a hospital.
+Spend|花费|William decided to spend his money on snack.
+Tools|工具|Tom and his dad used tools to build a birdhouse.
+adapt|适应|The polar bear's thick fur coat helps it adapt to the icy water.
+Climate|气候|Tome lives a hot and sunny climate.
+Eager|兴奋的|Mindy is eager to see her grandmother.
+Freedom|自由|Deer have the freedom to move about the open land.
+Fresh|新鲜的|The backer made fresh bread every day.
+Sense|感觉|I felt a sense of pride when I won the race.
+Shadows|影子|We made animal shadows on the wall.
+Silence|安静的|The baby needed silence to fall asleep.
+Buried|埋|The car was buried in the deep snow.
+Escape|逃跑|The cat could escape through a hole in the fence.
+Habitat|生活环境|Prairie dogs live in a desert habitat.
+Journey|旅程|Maya and her family went on a journey in the woods.
+Nature|自然|We walk in the woods because we like to be in nature.
+Peeks|一瞥|While hiding, Kate peeks out from behind the tree.
+Restless|躁动的|The child became restless during the long car ride.
+Spies|窥视|Carlos spies an eagle in the sky.
+adult|成年人|My father is an adult.
+alive|活着的|I water the flowers to keep them alive.
+Covered|覆盖|Polar bears are covered with thick, white fur.
+Fur|毛|My kitten has fur that is soft and fluffy.
+Giant|巨大的|The giant tree is taller than my house.
+Groom|刷洗|I use a brush to groom my horse each day.
+Mammal|哺乳动物|A mammal has fur or hair and breathes air.
+Offspring|后代|At the zoo, we saw a mother rabbit and two offspring.
+Amazing|惊奇的|Jason made an amazing flip into the pool.
+Force|力量|The force of my kick made the ball move far.
+Measure|测量|I can measure the chalk with my ruler.
+Objects|对象|There were lots of objects in the toy chest.
+Proved|证明|Wyatt big hit proved he knew how to play baseball.
+Speed|速度|The car moved at a very fast speed.
+True|真的|It is true that an elephant is the largest land animal.
+Weight|重量|The weight of the pumpkin made it heavy to carry.
+Adventure|冒险|I want to travel around the world and find adventure.
+Delighted|高兴的|Ling was delighted when her grandmother came to visit.
+Dreamed|做梦|Juan dreamed of being an actor when he grows up.
+Enjoyed|享受|We enjoyed playing in the pool on the hot day.
+Grumbled|肚子咕咕叫|My stomach grumbled because I was hungry.
+Moonlight|月光|Moonlight can help sailors see at night.
+Neighbor|邻居|I went across the street to play with my neighbor.
+Nighttime|晚上时光|I like to watch the stars at nighttime.
+Across|穿过|We walked across the street.
+Borrow|借|I like to borrow books from the library in my town.
+Countryside|郊区|The quiet countryside is full of grass and trees.
+Idea|主意|Kate had an idea for how to make a paper crane.
+Insists|坚持|Mom insists we wear our seatbelts.
+Lonely|孤独|Gabe was lonely when his friend moved away.
+Solution|解决办法|Dylan found a solution for his problem.
+Villages|小镇|Few people live in the small villages on the mountain.
+Damage|损害|The storm caused some damage to the tree.
+Dangerous|危险的|It is dangerous to ride a bike without a helmet.
+Destroy|毁灭|The puppy can destroy shoes by chewing on them.
+Event|事件|The party was a fun event with food and games.
+Harsh|严酷的|The desert is harsh place to live.
+Prevent|防治|You should wash your hands to prevent sickness.
+Warning|警告|Dark clouds are a warning that a storm is coming.
+Weather|天气|The weather is cold and snowy today.
+Cheered|欢呼|We all cheered when our team won the game.
+Concert|音乐会|Jack and luis played in the concert last night.
+Instrument|乐器|A violin is a musical instrument.
+Movement|动作|The dancers’ movements were graceful.
+Music|音乐|Kira played her favorite kind of music.
+Rhythm|节奏|They tapped the rhythm of the song.
+Sounds|声音|The triangle and drum make different sounds.
+Understand|理解|Ken did not understand the homework.
+Eerie|可怕的|The noises in the old barn gave me an eerie feeling.
+Growth|增长|I found a thick growth of ferns in the park.
+Layers|层|It was cold so I wore three layers of clothing.
+Lively|可爱的|The liveliy kitten played with a ball.
+Location|位置|I can find the location of my state on a map.
+Region|地区|The arctic region is very cold and snowy.
+Seasons|季节|Summer is our favorite of all seasons.
+Temperate|温带的|A temperate climate is not too hot or too cold.
+Active|活动的|The active volcano was about to erupt.
+Earth|地球|We drug into the earth to plant some lettuce.
+Explode|爆炸💥|Fireworks make bright colors and loud noises as they explode.
+Island|岛屿|We visited an island on our vacation.
+Local|本地的|Grandpa and I went to a local park.
+properties|属性|I looked at the rock to learn about its properties.
+Solid|固体|Wood is solid, but water and air are not.
+Steep|陡峭的|This hill is steep and hard to climb.
+Common|普通的|Tag is a common game that children like.
+Costume|服装|Each actor in the play wore a colorful costume.
+Customs|习俗|A turkey dinner and a family gathering are Thanksgiving customs.
+Favorite|最喜欢的|Autumn is our favorite seasons, because we like cool weather best.
+Parades|游行|Our band marches in town parades.
+Surrounded|包围|We were surrounded by flowers.
+Travels|旅行|The car travels along the road.
+Wonder|想知道|I wonder when it will stop raining.
+Ashamed|羞耻的|Kim felt ashamed that she hurt her friend¡¯s feelings.
+Boast|自夸|They always boast that they are the best team.
+Dash|冲出去|People had to dash to get out of the rain.
+Holler|大声喊叫|I heard Sandy holler for her dog.
+Plenty|充足的|There was plenty of fresh corn at the picnic.
+Similarities|相似性|There are many similarities between my brother and me.
+Victory|胜利|Winning the race was a great victory for our team.
+Wisdom|智慧|Grandpa used his wisdom to help me solve my problem.
+Champion|冠军🏆|Maya won the game and became the new champion.
+Determined|决定|The boy determined which books to check out at the library.
+Issues|问题|The fireman talked about issues of fire safety with the children.
+Promises|保证|Zack and Jon made promises to tell the truth and stay friends.
+Responsibility|责任|It is my responsibility to clean my room every week.
+Rights|权利|Going to school is one of your rights as a citizen.
+Volunteered|志愿|I volunteered to help plant flowers in the garden.
+Votes|投票|I wonder who got the most votes in our class election.
+Amused|娱乐|The kids told jokes and amused each other.
+Cooperate|合作|Runners must cooperate to win a relay race.
+Describe|描述|I would describe my cat as small and fluffy.
+Entertained|取悦|The funny clown entertained me.
+Imagination|想象力|Ryan used his imagination to pretend he was in space.
+Interact|交互|Mia likes to chat and interact with her friends at lunch.
+Patient|耐心的|The boy was patient and waited for his friend.
+Peaceful|平和的|It was peaceful in the quiet library.
+Agree|同意|Grandma and I agree to play a card game.
+Challenging|挑战|This hard math problem is challenging to me.
+Discover|探索|I dig in my backyard to discover buried treasure.
+Heroes|英雄|Fire fighters are heroes that help people.
+Interest|兴趣|Adam has an interest in music.
+Perform|演出|My class likes to perform songs at school.
+Study|学习|I like to study the planets.
+Succeed|成功|I hope I succeed in winning the game.
+Curious|好奇的|I am curious to find out what is in the box.
+Distance|距离|Lily waved from a distance, but her friend did not see her.
+Earth resources|地球资源|Water and trees are important Earth resources.
+Enormous|巨大的|The bird looked tiny on top of the enormous rhinoceros.
+Gently|温柔地|The girls gently patted the puppy at the shelter.
+Proudly|自豪的|Julia smiled proudly when she finished her painting.
+Rarely|很少|It rarely rains in the dry desert.
+Supply|供应|The teacher has a supply of colored pencils for the class.
+Exclaimed|叫喊|what a surprise! James exclaimed.
+Finally|最后地|The mail is finally at Liam¡¯s house.
+Form|成立|Charlie and Dylan want to form a chess club.
+History|历史|Ben learns about the history of his family.
+Public|公众的|The school playground is Gina¡¯s favorite public place.
+Rules|规则|We must follow the rules of our school.
+United|联合|The children united to win the game.
+Writers|作者|The writers were busy finishing their stories.
+Appeared|出现|Buds appeared on the tree in early spring.
+Crops|庄稼|The farmer grows crops of corn and wheat.
+Develop|发展|The tadpole will develop into a frog.
+Edge|边缘|The ball rolled off the edge of the table.
+Golden|金色的|The golden sun shone in the blue sky.
+Rustled|沙沙声|The leaved rustled in the wind.
+Shining|闪亮的|The shining flashlight made it easier for us to read the book at night.
+Stages|阶段|Egg, caterpillar, and butterfly are stages in a butterfly's life.
+Electricity|电能|The lights need electricity to work.
+Energy|能量|It takes a lot of energy to power all the computers in our school.
+Flows|流动|The water flows from the tap into the sink.
+Haul|拖|Dump trucks haul away big rocks.
+Power|能量|The windmills use wind to make power for homes.
+Silent|安静的|The classroom was silent.
+Solar|太阳的|This solar oven uses light from the sun to cook food.
+Underground|地下|Prairie dogs live underground.
+Exploration|探索|We studied plants during our exploration of the forest.
+Important|重要的|It is important to get a good night¡¯s sleep.
+Machines|机器|Machines make it easier to cook in our kitchen.
+Prepare|准备|Hitting balls helps ben prepare for his baseball game.
+Repair|修理|The plumber will repair the broken sink.
+Result|结果|The tree fell over as a result of the storm.
+Scientific|科学的|Our scientific study helped us learn about rocks.
+Teamwork|团队协作|It takes teamwork to win a baseball game.
